@@ -36,9 +36,9 @@ Check out our test results:
 
 * Continuous integration: [https://travis-ci.org/esl/MongooseIM](https://travis-ci.org/esl/MongooseIM)
 * Code coverage: [https://coveralls.io/github/esl/MongooseIM](https://coveralls.io/github/esl/MongooseIM)
+* Continuous Load Testing: [http://tide.erlang-solutions.com/](http://tide.erlang-solutions.com/)
 * Load test history:  
   ![Load test history](http://tide.erlang-solutions.com/charts/bidaily_last_year.png)
-* Stay tuned... more soon!
 
 ## MongooseIM platform components
 
@@ -107,6 +107,7 @@ The MongooseIM platform documentation:
     * [Build MongooseIM from source code](user-guide/How-to-build.md)
     * [Set up MongoosePush](user-guide/Push-notifications.md)
     * [Set up MongooseICE](user-guide/ICE_tutorial.md)
+    * [Build an iOS messaging app](user-guide/iOS_tutorial.md)
 * Platform:
     * [Roadmap](Roadmap.md)
     * [Contributions to the ecosystem](Contributions.md)
